@@ -1,2 +1,2 @@
 # Basic-projects-on-classification-and-regression
-using neural networks
+Using neural networks
