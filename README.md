@@ -1,2 +1,2 @@
 # ANN-projects-on-classification-and-regression
-Using neural networks
+Using the power of neural networks
