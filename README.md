@@ -1,9 +1,9 @@
 # ANN for Classification and regression: Project Overview
 
 
-### Classification: used deep learning to create a model that predicts which passengers survived the Titanic shipwreck
+### Classification: use of deep learning to create a model that predicts which passengers survived the Titanic shipwreck
 
-### Regression: used deep learning to create a model that predicts sales prices of houses
+### Regression: use of deep learning to create a model that predicts sales prices of houses
 
 ## Worthwile to mention
 * Created a project that summarizes some basic techniques both for classification and regression
@@ -14,7 +14,7 @@
   4. Data preprocessing
   5. Build, train, evaluate models
   6. Tune model and make predictions
-* Used artificial neural networks  
+* Use of artificial neural networks  
 
 
 ## Code and Resources Used
@@ -25,4 +25,4 @@
    
 ## Model performance
 ### Classification: accuracy=83% (on predicting if the passenger survived or not)
-### Regression: MAE=13464 (median value of saleprices is 163.000 dollars and ours deviation is 13.456 dollars )
+### Regression: MAE=13464 (median value of saleprices is 163.000 dollars and the deviation is 13.456 dollars )
