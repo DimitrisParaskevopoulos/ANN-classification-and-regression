@@ -1,4 +1,4 @@
-# ANN for Classification and regression: Project Overview
+# ANN for Classification and Regression: Project Overview
 
 
 ### Classification: Deep Learning models that predict which passengers survived the Titanic shipwreck
